@@ -9,7 +9,9 @@ I applied a artificial neural network (ANN) model and got training accuracy of a
 
 ##Some plots
 
+Loss over Epoches
 ![image](https://user-images.githubusercontent.com/92180055/190886961-fa70e8ff-00fc-4dc3-b6fa-0063b27fb4f9.png)
 
+Accuracy over Epoches
 ![image](https://user-images.githubusercontent.com/92180055/190886968-895edbe0-ba20-4dbf-b67f-aee0885b9231.png)
 
