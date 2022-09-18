@@ -4,10 +4,10 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
-##How I tackle this Question?
+## How I tackle this Question?
 I applied a artificial neural network (ANN) model and got training accuracy of about 99% and validation accuracy of about 95% and predicted accuracy of about 93%.
 
-##Some plots
+## Some plots
 
 Loss over Epoches
 ![image](https://user-images.githubusercontent.com/92180055/190886961-fa70e8ff-00fc-4dc3-b6fa-0063b27fb4f9.png)
